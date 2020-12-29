@@ -1,60 +1,32 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: Welcome to my Portfolio !
+description: After delaying for a very long time, finally I decided to rework on my portfolio website, made sure that I integrate a blog space this time ❤
+author: Mayank Singh
+date: 2020-12-29
 tags:
-  - left
-  - center
-  - right
+  - developer
+  - portfolio
+  - blog
 ---
-# This is a Heading h1
 
-## This is a Heading h2
+#### Hey there 👋 welcome to my first blog ❤
 
-###### This is a Heading h6
+##### This little space I own in the world wide web is pretty much in it's infant stage, I plan a lot going forward this new year (2021) sharing some of my goals here.
 
-## Emphasis
+- I plan to add more of my projects in the [/projects](/projects) route, I'll even categorize them into `Backend/ Frontend/ Full Stack/ Games /Snippets etc.` & implement releavant filters to improve user experience. 
 
-*This text will be italic*\
-*This will also be italic*
+- I'll add support for dark mode on this portfolio of mine.
 
-**This text will be bold**\
-**This will also be bold**
+- I'll add a new route where I'll share my reading list as well, I'll share little synopsis/major learnings on all the books, so that even the world can get value out of that list.
 
-*You **can** combine them*
+- I'll share the entire process on how I built some of my existing and future projects. 
 
-## Lists
+- I'll try to be more consistent with blog writing where I'll share my daily technological as well as intellectual learnings, basically I'll use this place a journal.
 
-### Unordered
+- I'll also share some of my designs which I already have designed or will design in the coming future.
 
-* Item 1
-* Item 2
 
-  * Item 2a
-  * Item 2b
+##### This blog/portfolio is possible because of [neat-starter](https://github.com/surjithctly/neat-starter) template provided by [@surjithctly](https://github.com/surjithctly)
 
-### Ordered
 
-1. Item 1
-2. Item 2
-3. Item 3
 
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.

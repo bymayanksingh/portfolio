@@ -17,16 +17,16 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwin
 | ------------------------------------------------------------------------------------------------------------- |
 
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/code-monk08/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
 
 ## Getting Started
 
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
+Detailed instructions are available in my blog. [Check it out](https://blog.code-monk08.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
 
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://github.com/code-monk08/neat-starter.git
 ```
 
 ### 2\. Navigate to the directory
@@ -57,4 +57,4 @@ npm run start
 
 ## Author
 
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+Mayank Singh ( [@code-monk08](https://code-monk08.in/) )
