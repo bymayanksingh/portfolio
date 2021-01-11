@@ -15,10 +15,16 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="icon" href="../static/img/favicon-16x16.png" type="image/gif" sizes="16x16">
   </head>
   <body>
+    <script>
+      function myFunction() {
+        var d = new Date();
+        var n = d.getFullYear();
+        document.getElementById("todaysdate").innerHTML = n;
+      }
+      </script> 
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}

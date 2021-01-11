@@ -1,10 +1,10 @@
 ---
 items:
-  - text: "/about"
+  - text: "about"
     url: "/about"
-  - text: "/projects"
+  - text: "projects"
     url: "/projects"
-  - text: "/blog"
+  - text: "blog"
     url: "/blog"
-  - text: "/resume"
+  - text: "resume"
     url: "/resume"

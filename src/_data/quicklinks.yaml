@@ -1,49 +1,65 @@
 ---
 links:
   - title: Ingress
+    url: "https://github.com/code-monk08/marketplace"
+    desc: 💡 As a developer I implemented the entire backend API from scratch
+    dev: 👨‍💻 As a developer I implemented the frontend as well as the backend for this full stack web app.
+    stack: ⚙️ Used Python, Django, Django Rest Framework, PostgreSQL database, Documentation using Swagger Open API Specification, Authentication using Json Web Tokens
+
+    date: 📅 Built in Jan 2021
+
+  - title: Ingress
     url: "https://github.com/code-monk08/entry-management"
     desc: 💡 It's a minimum viable product on entry management to be done during office events.
     dev: 👨‍💻 As a developer I implemented the frontend as well as the backend for this full stack web app.
-    stack: ⚙️  Used Node.js, MongoDB, EJS templates, Authentication using passport.js, Email Automation using Nodemailer, SMS automation using Nexmo (Vonage) sms API.
+    stack: ⚙️ Used Node.js, MongoDB, EJS templates, Authentication using passport.js, Email Automation using Nodemailer, SMS automation using Nexmo (Vonage) sms API.
+    date: 📅 Built in Nov 2019
 
   - title: Questionnaire API
     url: "https://github.com/PyBites-Open-Source/questionnaire-api"
     desc: 💡 Open Sourced questions database exposed using a REST API, it will let contributors add new questions in Multiple categories as MCQ or T/F types.
     dev: 👨‍💻 As a developer I was an Open Source contributor, mainly worked on designing the database, implementing backend & documenting the API in collaboration with PyBites.
-    stack: ⚙️  Used Python3, Flask, PostgreSQL database, docker, swagger UI.
+    stack: ⚙️ Used Python3, Flask, PostgreSQL database, docker, swagger UI.
+    date: 📅 Built in Sep 2019
 
   - title: Ticket Booking API
     url: "https://github.com/code-monk08/ticket-booking"
     desc: 💡 It is a REST API on theatre ticket booking system.
     dev: 👨‍💻 As a developer I implemented the entire backend API from scratch.
-    stack: ⚙️  Used Python, Django, Django Rest Framework, PostgreSQL database, Documentation using Swagger Open API Specification.
+    stack: ⚙️ Used Python, Django, Django Rest Framework, PostgreSQL database, Documentation using Swagger Open API Specification.
+    date: 📅 Built in Sep 2020
 
   - title: Open Source API Wrapper
     url: "https://github.com/code-monk08/open-source-api-wrapper"
     desc: 💡 It is a Github & Gitlab API wrapper which is packaged into one server, contains minimal API interactions to get user, project & organization information.
     dev: 👨‍💻 As a developer, I built this script from scratch, learnt about the working of APIs through this project.
-    stack: ⚙️  Used Python3, Flask.
+    stack: ⚙️ Used Python3, Flask.
+    date: 📅 Built in May 2019 - June 2019
 
   - title: Simple Weather App
     url: "https://github.com/code-monk08/simple-weather-app"
     desc: 💡 It is a basic CRUD application which supports searching for cities worldwide and adding them as css cards showing their temperature and other details.
     dev: 👨‍💻 As a developer, I built this mini full stack web app from scratch, helped me learn about Flask, CSS and backend concepts.
     stack: ⚙️ Used Python3, Flask, SQL database.
+    date: 📅 Built in Apr 2019
 
   - title: Connect Four Game
     url: "https://github.com/code-monk08/connect4"
     desc: 💡 It is a two-player board game, it consists of 6 rows, 7 columns suspended grid, where either of the players win by forming  a horizontal, vertical or diagonal line of four of one's own discs. 
     dev: 👨‍💻 As a developer, I worked on the initial working iteration of this project, then I open sourced this project and welcomed contributions from other developers in events like Hacktoberfest and Kharagpur Winter of Code (where I mentored students for this project) received a lot of traction for this in this events.
     stack: ⚙️ Used Python3, PyGame, Basic Shell scripting, Numpy, Adobe Photoshop.
+    date: 📅 Built in Feb 2019
 
   - title: Tic Tac Toe
     url: "https://github.com/code-monk08/Tic-Tac-Toe"
     desc: 💡 It is a two-player board game, it consists of 3 rows, 3 columns suspended grid, where either of the players win by forming a horizontal, vertical or diagonal line of three of one's own noughts or crosses 
     dev: 👨‍💻 As a developer, I implemented this project entirely from scratch.
     stack: ⚙️ Used Python3, PyGame, Basic Shell scripting, Numpy, Adobe Photoshop.
+    date: 📅 Built in Jan 2019
 
   - title: Metroworks CLI
     url: "https://github.com/code-monk08/metroworks"
     desc: 💡 It is a command line based utility which helps in finding and effectively visualizing shortest route between intra delhi metro stations, It uses dijkstras algorithm.
     dev: 👨‍💻 As a developer, I implemented the dijkstras algorithm using standard template library in C++, along with that I along with my team worked with graphviz which is a graph visualization text based language, we integrated it with our C++ code to dynamically visualize path between metro stations.
     stack: ⚙️ Used C++, graphviz, fim, zenity, sl, notify-osd
+    date: 📅 Built in Oct 2018
